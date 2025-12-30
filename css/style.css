@@ -295,6 +295,12 @@ ul {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.portfolio .portfolio-heading a
+{
+  font-weight: 500;
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .portfolio .left {
   flex: 0 0 60%;
   max-width: 0 0 60%;
