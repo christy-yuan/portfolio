@@ -95,6 +95,10 @@ html{
   border-radius: 15px;
   margin-right: 40px;
 }
+
+.aside .nav li h6{
+  background: #afc6ef;
+}
 .aside .nav li a {
   font-size: 20px;
   font-weight: 600;
